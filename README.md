@@ -74,7 +74,7 @@ namespace Autovechicle
 ```
 
 ## OUTPUT:
-![](output.png)
+![](https://github.com/Shrruthilaya-Gangadaran/Inheritance/blob/main/output.png)
 
 ## RESULT:
 Thus, a C# program to print some messages using hierarchical inheritance is implemented successfully.
